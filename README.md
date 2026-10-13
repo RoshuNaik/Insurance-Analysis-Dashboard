@@ -52,4 +52,11 @@ This project analyzes insurance customer demographics, medical insurance charges
 - Dataset, if permitted to share
 
 ## Conclusion
-This project demonstrates how data visualization can help explore insurance costs, understand customer segments, and communicate analytical findings through an interactive dashboard.
+
+The Insurance Analysis Dashboard provides a comprehensive view of customer demographics, insurance charges, and major risk factors using interactive data visualizations. The project helps analyze how age, BMI, smoking habits, gender, and the number of children relate to insurance expenses.
+
+The analysis indicates that smoking status is strongly associated with higher average insurance charges. Age groups and BMI categories also provide useful insights into customer costs and risk patterns. The dashboard presents these findings through an Executive Overview, Customer Analysis, Charges and Risks, and an Insights page.
+
+This project helped me improve my practical skills in data analysis, dashboard development, KPI presentation, and data storytelling using Microsoft Power BI. It also demonstrates how raw data can be transformed into meaningful visual insights that support better understanding and data-driven decision-making.
+
+Overall, this project showcases my ability to organize analytical findings into a clear, interactive, and professional dashboard suitable for a data analytics portfolio.
