@@ -16,20 +16,6 @@ This project analyzes insurance customer demographics, medical insurance charges
 3. **Customer Analysis** — Customer distribution by BMI category, sex, and age group.
 4. **Charges and Risks** — Comparison of charges for smokers and non-smokers, age groups, BMI, and number of children.
 
-## Dashboard Screenshots
-
-### 1. Executive Overview
-![Executive Overview](executive-overview.png)
-
-### 2. Insurance Insights
-![Insurance Insights](insurance-insights.png)
-
-### 3. Customer Analysis
-![Customer Analysis](customer-analysis.png)
-
-### 4. Charges and Risks
-![Charges and Risks](charges-and-risks.png)
-
 
 
 ## Key Performance Indicators
